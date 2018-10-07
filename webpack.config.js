@@ -4,7 +4,7 @@ const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
 
 let webpackConfig = {
     entry: {
-        myCustomViz: './src/visualizations/my-custom-viz.ts'
+        myCustomViz: './src/visualizations/relationship-graph.ts'
     },
     output: {
         filename: '[name].js',

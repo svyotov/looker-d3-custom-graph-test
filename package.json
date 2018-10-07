@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "looker-visualizations",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -21,6 +21,6 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-    "d3": "^5.5.0"
+    "d3": "^5.7.0"
   }
 }
